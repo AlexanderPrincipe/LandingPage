@@ -2,4 +2,4 @@
 
 Landing Page
 
-![Captura de pantalla de 2019-06-17 16-06-39](https://user-images.githubusercontent.com/31213239/59636750-edb85000-9119-11e9-9b2d-8cf68e119b8e.png)
+![Captura de pantalla de 2019-06-17 16-07-59](https://user-images.githubusercontent.com/31213239/59636838-22c4a280-911a-11e9-924e-1905ae484a0d.png)
