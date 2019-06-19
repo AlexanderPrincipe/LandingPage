@@ -7,6 +7,19 @@ body {
     border-bottom: #c0392b 3px solid;
     opacity: .7;
   }
+
+  .tamaño {
+    font-size: 22px;
+  }
+
+  .espacio {
+    height: 30px;
+  }
+  
+  .mover {
+    position: relative;
+    top: 25px;
+  }
   
   #home-section {
     background: url('./img/bg3.jpg') no-repeat;
